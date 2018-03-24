@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-custom-search.api.streamdata.gallery
+title: Streamdata Gallery Google Custom Search
+url: google-custom-search.streamdata.gallery
 tag: Google Custom Search
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-custom-search
 github_branch: master
 collections:
